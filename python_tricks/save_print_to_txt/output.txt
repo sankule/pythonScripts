@@ -1,0 +1,12 @@
+Something - output 1
+Something - output 2
+print of DataFrame >>>> 
+   a  b
+0  1  6
+1  2  7
+2  3  8
+3  4  9
+4  5  0
+5  6  1
+
+
