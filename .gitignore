@@ -2,3 +2,9 @@
 */.ipynb_checkpoints/*
 
 DeepLearning/TF2_Jose/ANN/logs/
+
+DeepLearning/TF2_Jose/CNN/cell_images/
+
+DeepLearning/TF2_Jose/CNN/cell_images.zip
+
+*.zip
